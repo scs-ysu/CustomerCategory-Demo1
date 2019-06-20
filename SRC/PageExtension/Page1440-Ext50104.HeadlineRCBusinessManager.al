@@ -36,6 +36,6 @@ pageextension 50104 MyNewBCHeadline extends "Headline RC Business Manager"
         HeadLineMgt: Codeunit "Headline Management";
         CustomerMgt: Codeunit "Customer Management";
     Begin
-        newHeadLineText := 'Number of Customers without assigned catagory:' + HeadLineMgt.Emphasize(Format(CustomerMgt.GetTotalCustomersWithoutCatgory()));
+        newHeadLineText := 'Number of Customers without assigned Customer catagory:' + HeadLineMgt.Emphasize(Format(CustomerMgt.GetTotalCustomersWithoutCatgory()));
     End;
 }

@@ -15,6 +15,7 @@ page 50101 "Free Gift List"
                 {
                     ApplicationArea = All;
 
+
                 }
                 field(ItemNo; ItemNo)
                 {

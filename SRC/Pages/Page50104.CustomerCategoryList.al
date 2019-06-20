@@ -77,5 +77,6 @@ page 50100 "Customer Category List"
     [IntegrationEvent(true, true)]
     local procedure OnAfterCreateDefaultCategoryCode(var CustCatgeory: Record "Customer Category")
     begin
+
     end;
 }
