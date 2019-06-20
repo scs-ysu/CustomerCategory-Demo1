@@ -1,119 +1,116 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-US" target-language="en-US" original="CustomerExtenstion_Demo1" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
-    <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1900.0" tool-company="Microsoft" />
-    </header>
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="CustomerExtenstion_Demo1">
     <body>
-      <group id="body" datatype="resx">
+      <group id="body">
         <trans-unit id="Table 1530605032 - Property 3830149458" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer Category</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Customer Category - Property caption</note>
         </trans-unit>
         <trans-unit id="Table 1530605032 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>No.</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Customer Category - Field No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1530605032 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Description</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Customer Category - Field Description - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1530605032 - Field 1383905037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Default</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Customer Category - Field Default - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1530605032 - Field 1359918088 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Total Customers for Category</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Customer Category - Field TotalCustomersForCatogory - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1530605032 - Field 3363283633 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
           <source> ,Full,Limited</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Customer Category - Field EnabledNewsLetters - Property OptionCaption</note>
         </trans-unit>
         <trans-unit id="Table 1530605032 - Field 3363283633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Enabled Newsletter</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Customer Category - Field EnabledNewsLetters - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1530605032 - Field 989712734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Free gift Avaliable</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Customer Category - Field FreeGiftsAvailable - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 682303293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Free gifts</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Freegifts - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 682303293 - Field 1342167883 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer Category Code</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Freegifts - Field CustomerCategoryCode - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 682303293 - Field 332802016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Item No.</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Freegifts - Field ItemNo - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 682303293 - Field 4172315960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Minimum order quantity</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Freegifts - Field MinimumOrderQty - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 682303293 - Field 1740626337 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Free Gift Qunatity</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Freegifts - Field GiftQuantity - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3216314330 - Control 1359918088 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Total Customers for Catgory</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Customer Category List - Control TotalCustomersForCatogory - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3216314330 - Action 1974176782 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Create Default Category Code</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Customer Category List - Action Create Default Catgeory Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3216314330 - Action 1974176782 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Create Default Category Code</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Customer Category List - Action Create Default Catgeory Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 61480998 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Free Gift Setup</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Free Gift List - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 4272835675 - Action 2148286126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Assign Default Category</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExtension - Action Assign Default Category - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 2720094409 - Action 2148286126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Assign Default Category</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerListExtension - Action Assign Default Category - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 120844612 - Field 1875610811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer Catgeory Code</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExtensions - Field Customer Category Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 1885753943 - Field 1530605032 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer catagory code</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension ItemLedgerEntryExtension - Field Customer Category - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 1885753943 - Change 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Document number</source>
-          <target state="new"></target>
+          <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension ItemLedgerEntryExtension - Change Document No. - Property Caption</note>
         </trans-unit>
       </group>
