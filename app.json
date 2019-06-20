@@ -1,0 +1,27 @@
+{
+  "id": "b896902d-91db-4bf5-bb5a-1fc1be9a4de5",
+  "name": "CustomerExtenstion_Demo1",
+  "publisher": "SCS publisher",
+  "version": "2.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "features": ["TranslationFile"],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://CustomerExtenstion_Demo1.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}

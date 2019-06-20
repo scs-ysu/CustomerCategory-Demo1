@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<PermissionSets>
+    <PermissionSet RoleID="CustomerCategorySetup" RoleName="Customer Category setup">
+        <Permission>
+            <ObjectType>TableData</ObjectType>
+            <ObjectID>50104</ObjectID>
+            <ReadPermission>Yes</ReadPermission>
+            <InsertPermission>Yes</InsertPermission>
+            <ModifyPermission>Yes</ModifyPermission>
+            <DeletePermission>Yes</DeletePermission>
+            <ExecutePermission>Yes</ExecutePermission>
+            <SecurityFilter />
+        </Permission>
+         <Permission>
+            <ObjectType>TableData</ObjectType>
+            <ObjectID>50105</ObjectID>
+            <ReadPermission>Yes</ReadPermission>
+            <InsertPermission>Yes</InsertPermission>
+            <ModifyPermission>Yes</ModifyPermission>
+            <DeletePermission>Yes</DeletePermission>
+            <ExecutePermission>Yes</ExecutePermission>
+            <SecurityFilter />
+        </Permission>
+    </PermissionSet>
+</PermissionSets>
