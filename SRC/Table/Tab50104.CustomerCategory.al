@@ -33,6 +33,7 @@ table 50104 "Customer Category"
             DataClassification = CustomerContent;
             // CalcFormula = count (Customer where ("Customer Category" = field("No.")));
             Caption = 'Total Customers for Category';
+            //Enabled = False;
         }
         field(40; EnabledNewsLetters; Option)
         {
@@ -45,6 +46,13 @@ table 50104 "Customer Category"
         {
             DataClassification = CustomerContent;
             Caption = 'Free gift Avaliable';
+        }
+        field(60; TotalCustomersForCatogoryCode; Integer)
+        {
+            //DataClassification = CustomerContent;
+            FieldClass = FlowField;
+            CalcFormula = count (Customer where ("Customer Category Code" = field ("No.")));
+            Caption = 'Total Customers for Category Code';
         }
     }
 

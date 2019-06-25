@@ -43,6 +43,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Customer Category - Field FreeGiftsAvailable - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 1530605032 - Field 422975747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Customers for Category Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Category - Field TotalCustomersForCatogoryCode - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 682303293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Free gifts</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -68,10 +73,10 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Freegifts - Field GiftQuantity - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3216314330 - Control 1359918088 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Total Customers for Catgory</source>
+        <trans-unit id="Page 3216314330 - Control 422975747 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Customers for Catgory Code</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Category List - Control TotalCustomersForCatogory - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Category List - Control TotalCustomersForCatogoryCode - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3216314330 - Action 1974176782 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Create Default Category Code</source>

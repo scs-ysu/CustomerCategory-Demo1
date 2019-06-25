@@ -4,7 +4,10 @@
         {
             "type": "al",
             "request": "launch",
-            "name": "Microsoft cloud sandbox",
+            "name": "Your own server",
+            "server": "https://ysuD365BC/",
+            "serverInstance": "nav",
+            "authentication": "UserPassword",
             "startupObjectId": 22,
             "startupObjectType": "Page",
             "breakOnError": true,

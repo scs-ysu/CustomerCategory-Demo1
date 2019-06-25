@@ -20,14 +20,11 @@ page 50100 "Customer Category List"
                 {
                     ApplicationArea = ALL;
                 }
-                field(Default; Default)
+
+                field(TotalCustomersForCatogoryCode; TotalCustomersForCatogoryCode)
                 {
                     ApplicationArea = ALL;
-                }
-                field(TotalCustomersForCatogory; TotalCustomersForCatogory)
-                {
-                    ApplicationArea = ALL;
-                    ToolTip = 'Total Customers for Catgory';
+                    ToolTip = 'Total Customers for Catgory Code';
                 }
                 field(FreeGiftsAvailable; FreeGiftsAvailable)
                 {
